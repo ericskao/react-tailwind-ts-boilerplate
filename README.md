@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+Boilerplate kit with Create React App, Typescript, TailwindCSS, Axios, and Node
+
+Feel free to fork and clone to use on your personal projects
+
+WeatherAPI requires a key to use (add to .env REACT_APP_WEATHER_API_KEY="your personal key here")
+
+![Screen Shot 2023-04-15 at 1 51 27 PM](https://user-images.githubusercontent.com/7784705/232252660-f4c4a088-95c2-463d-be05-6a8ba76c3202.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
